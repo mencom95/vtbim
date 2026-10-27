@@ -11,7 +11,7 @@ SketchUp file.
 
 All versions: [Releases](https://github.com/mencom95/vtbim/releases)
 
-**Requirements:** SketchUp 2024 or later, Windows.
+**Requirements:** SketchUp on Windows.
 
 ## Installation
 
